@@ -1,0 +1,35 @@
+div{
+	padding:0px;
+	margin:0px;
+}
+.header{
+	position: absolute;
+}
+.main{
+	position:absolute;
+	top:20.5%;
+	width:100%;
+}
+.img{
+	position:relative;
+
+}
+.search{
+	position: relative;
+	bottom: -22px;
+
+}
+.footer{
+	position: absolute;
+	background-color: yellow;
+	width:98%;
+	height: 40px;
+	bottom: 1px;
+	font-size: small;
+}
+.searchbar{
+	width: 31%;
+	height:35px;
+	font-size:26px;
+	font-family:Arial;
+}
